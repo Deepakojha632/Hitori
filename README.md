@@ -7,3 +7,4 @@ It is a hitori game implementation using networking in java to play with two pla
 2. Now run two instances of hitori.java file.
 3. Press start button to go.
 4. Keep eyes on timer.
+5. Press submit to check.
